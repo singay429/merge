@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 the river is ghost
+=======
+a story of beauty
+>>>>>>> beautyversion

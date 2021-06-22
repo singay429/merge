@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the theme of ghost
+=======
+this is a theme of beauty
+>>>>>>> beautyversion

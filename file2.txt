@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 she is ghost
+=======
+she is a beauty
+>>>>>>> beautyversion
